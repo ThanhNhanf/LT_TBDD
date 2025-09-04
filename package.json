@@ -1,0 +1,25 @@
+{
+  "name": "20040251_nguyenthanhnhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "bai1": "ts-node week1/bai1.ts",
+  "bai2": "ts-node week1/bai2.ts",
+  "bai3": "ts-node week1/bai3.ts",
+  "bai4": "ts-node week1/bai4.ts",
+  "bai5": "ts-node week1/bai5.ts",
+  "bai6": "ts-node week1/bai6.ts",
+  "build": "tsc",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }  
+  
+}
+

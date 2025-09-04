@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "rootDir": "week1",
+    "outDir": "./dist",
+    "strict": true
+  }
+}
